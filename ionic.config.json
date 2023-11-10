@@ -1,0 +1,8 @@
+{
+  "name": "Vibe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "4b5bcc3e"
+}
